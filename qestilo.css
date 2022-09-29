@@ -1,0 +1,19 @@
+.tumama{
+	color: green ; 
+	font-size: 3em;
+	background-color: #F4D03F ;
+}.tumama:hover{
+	color: green ; 
+	font-size: 3em;
+	background-color: #FADBD8;
+}
+
+.tupapa {
+	color: green  ; 
+	font-size: 2em;
+}
+.tupapa:hover {
+	color: black !important ; 
+	font-size: 2em;
+	value: "entonses responde ¿quien es?";
+}
